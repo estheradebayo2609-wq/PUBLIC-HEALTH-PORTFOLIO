@@ -23,4 +23,15 @@ The webinar reached 58 undergraduate students in Nigeria. To assess the impact o
 
 Lessons Learned
 
-Organizing the webinar gave me practical experience in program coordination, communication, and stakeholder engagement, while strengthening my skills in collaboration, creativity, and taking initiative. It also gave me a better understanding of the intersection between gender-related issues and mental health.
+Organizing the webinar gave me practical experience in program coordination, communication, and stakeholder engagement, while strengthening my skills in collaboration, creativity, and taking initiative. It also gave me a better understanding of the intersection between gender-related issues and mental.
+
+## Evidence & Documentation
+
+### Speaker Coordination
+![CEWHIN Speaker Coordination](CEWHIN%20Speaker%20Coordination%20.JPG)
+
+### Webinar Live Meeting
+![CEWHIN Webinar Live Meeting](Cewhin%20Webinar%20Live%20Meeting.JPG)
+
+### Webinar Flier
+![CEWHIN Webinar Flier](CEWHIN%20Webinar%20flier.jpg)
