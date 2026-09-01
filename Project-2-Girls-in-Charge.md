@@ -32,10 +32,13 @@ Serving as the Registration Team Lead and facilitating the program strengthened 
 ## Evidence & Documentation
 
 ### Panel Session
-![GIC Panel Session](GIC%20Panel%20Session%20%20.JPG)
+
+![GIC Panel Session](./GIC%20Panel%20Session%20%20.JPG)
 
 ### Empower to Succeed Panel Session
-[View Empower to Succeed Panel Session](Empower%20to%20Succeed%20Panel%20Session)
+
+![Empower to Succeed Panel Session](./Empower%20to%20Succeed%20Panel%20Session)
 
 ### Participants
-![Empower to Succeed Participants](Participants%20Photos.%20HEIC.jpg)
+
+![Participants Photos](./Participants%20Photos.%20HEIC.jpg)
