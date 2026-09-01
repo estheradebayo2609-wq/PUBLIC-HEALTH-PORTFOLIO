@@ -29,3 +29,13 @@ Leadership • Project Coordination • Public Speaking • Facilitation • Com
 Lessons Learned
 
 Being part of one of the many outreaches organized through the SDGs CDS introduced me to how project management and public health can be applied across different settings. It strengthened my understanding of planning, coordination, advocacy, and stakeholder engagement in promoting health and well-being.
+
+## Evidence & Documentation
+
+### Outreach Documentation
+
+![CEWHIN Webinar Flier](./CEWHIN%20Webinar%20flier.jpg)
+
+![CEWHIN Webinar Live Meeting](./Cewhin%20Webinar%20Live%20Meeting.JPG)
+
+![GIC Speaking Engagement Flier](./GIC%20Speaking%20Engagement%20Flier.jpg)
