@@ -32,10 +32,10 @@ Being part of one of the many outreaches organized through the SDGs CDS introduc
 
 ## Evidence & Documentation
 
-### Outreach Documentation
+### SDG 3 in the Workplace Outreach
 
-![CEWHIN Webinar Flier](./CEWHIN%20Webinar%20flier.jpg)
+![SDG 3 in the Workplace 1](./SDG%203%20in%20the%20Workplace%201.JPG)
 
-![CEWHIN Webinar Live Meeting](./Cewhin%20Webinar%20Live%20Meeting.JPG)
+![SDG 3 in the Workplace 2](./SDG%203%20in%20the%20workplace%202.JPG)
 
-![GIC Speaking Engagement Flier](./GIC%20Speaking%20Engagement%20Flier.jpg)
+![SDG 3 in the Workplace 3](./SDG3%20in%20the%20Workplace%203.JPG)
