@@ -29,16 +29,16 @@ Interning at GIC and supporting the Programs Department taught me the importance
 
 Serving as the Registration Team Lead and facilitating the program strengthened my leadership, coordination, communication, and public speaking skills.
 
-## Evidence & Documentation
+# Evidence & Documentation
 
-### Panel Session
+### Speaking Engagement
 
-![GIC Panel Session](./GIC%20Panel%20Session%20%20.JPG)
-
-### Empower to Succeed Panel Session
-
-![Empower to Succeed Panel Session](./Empower%20to%20Succeed%20Panel%20Session)
+![GIC Speaking Engagement Flier](./GIC%20Speaking%20Engagement%20Flier.jpg)
 
 ### Participants
 
-![Participants Photos](./Participants%20Photos.%20HEIC.jpg)
+![Participants Photos](./Participants%20Photos.HEIC)
+
+### Speaking Engagement
+
+![Speaking Engagement](./Speaking%20Engagements%20.JPG)
