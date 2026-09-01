@@ -28,3 +28,14 @@ Lessons Learned
 Interning at GIC and supporting the Programs Department taught me the importance of teamwork, communication, and effective planning in program delivery.
 
 Serving as the Registration Team Lead and facilitating the program strengthened my leadership, coordination, communication, and public speaking skills.
+
+## Evidence & Documentation
+
+### Panel Session
+![GIC Panel Session](GIC%20Panel%20Session%20%20.JPG)
+
+### Empower to Succeed Panel Session
+[View Empower to Succeed Panel Session](Empower%20to%20Succeed%20Panel%20Session)
+
+### Participants
+![Empower to Succeed Participants](Participants%20Photos.%20HEIC.jpg)
