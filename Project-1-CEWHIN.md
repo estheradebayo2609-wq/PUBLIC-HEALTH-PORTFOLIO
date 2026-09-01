@@ -27,9 +27,6 @@ Organizing the webinar gave me practical experience in program coordination, com
 
 ## Evidence & Documentation
 
-### Speaker Coordination
-![CEWHIN Speaker Coordination](CEWHIN%20Speaker%20Coordination%20.JPG)
-
 ### Webinar Live Meeting
 ![CEWHIN Webinar Live Meeting](Cewhin%20Webinar%20Live%20Meeting.JPG)
 
